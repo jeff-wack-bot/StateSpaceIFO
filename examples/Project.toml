@@ -1,0 +1,11 @@
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+StateSpaceIFO = "f7ae6ec1-e841-4836-9226-f89fbea5aaf5"
+
+[sources]
+StateSpaceIFO = {path = ".."}
+
+[compat]
+CairoMakie = "0.15"
