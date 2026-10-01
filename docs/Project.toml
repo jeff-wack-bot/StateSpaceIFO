@@ -4,3 +4,6 @@ StateSpaceIFO = "f7ae6ec1-e841-4836-9226-f89fbea5aaf5"
 
 [sources]
 StateSpaceIFO = {path = ".."}
+
+[compat]
+Documenter = "1.19.0"
